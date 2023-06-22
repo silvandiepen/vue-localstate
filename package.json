@@ -1,0 +1,17 @@
+{
+  "name": "vue-localstate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsup src/index.ts dist/index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^7.0.0"
+  },
+  "peerDependencies": {
+    "vue": "3.x.x"
+  }
+}
